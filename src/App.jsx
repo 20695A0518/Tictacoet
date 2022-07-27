@@ -1,6 +1,7 @@
 import React from 'react';
 import Board from './Components/Board';
 import './Style/root.scss';
+
 const App = () => {
   return (
     <div className="app">
